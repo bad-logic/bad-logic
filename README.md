@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hi 👋, Welocome</h1>
+<h1 align="center">Hi 👋, Welcome</h1>
 <!--
 **bad-logic/bad-logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
